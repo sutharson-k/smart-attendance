@@ -121,7 +121,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 For questions or support, please contact:
-- **GitHub**: [sutharson20069](https://github.com/sutharson20069)
+- **GitHub**: [sutharson-k](https://github.com/sutharson-k)
 
 ---
 
